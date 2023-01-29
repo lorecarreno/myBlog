@@ -34,7 +34,7 @@ header .header-icons-container {
     width: 100%;
     height: 50px;
     display: grid;
-    background-color: #dda3d3;
+    background-color: #ee3547;
 }
 header .header-icons-container .icons {
     width: 300px;
@@ -76,7 +76,7 @@ nav .profile-link a {
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
     height: 100%;
-    background-image: url('../assets/img/Cover.png');
+    background-image: url('../assets/img/portada.jpeg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -95,12 +95,12 @@ nav .profile-link a {
     letter-spacing: 10px;
     color: black;
     text-align: center;
-    color: white;
+    color: black;
 }
 .home-main-button {
     width: 110px;
     height: 50px;
-    background: #dda3d3;
+    background: #e6e9ed;
     text-align: center;
     font-weight: 700;
     font-size: 18px;
@@ -141,7 +141,7 @@ nav .profile-link a {
     text-align: center;
 }
 .blogs-button {
-    border: 1px solid #dda3d3;
+    border: 1px solid #ee3547;
     padding: 10px 15px;
     font-size: 12px;
 }
@@ -161,7 +161,7 @@ footer {
     width: 100%;
     height: 80px;
     background-color: #22272d;
-    border-top: 35px solid #dda3d3;
+    border-top: 35px solid #ee3547;
     text-align: center;
 }
 footer p {
