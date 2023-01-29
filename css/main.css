@@ -236,7 +236,7 @@ footer p {
 }
 .proyects-main-container {
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 .proyect-container {
     padding: 0 5px;
